@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "var-penguin-jump.CSharp", "var-penguin-jump.CSharp.csproj", "{D7304CCF-1CCD-405F-78F6-F6BD9F0A84D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "var-penguin-jump.CSharp.Editor", "var-penguin-jump.CSharp.Editor.csproj", "{AF17F9E0-077A-E07D-8DDB-3BDBBE602962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7304CCF-1CCD-405F-78F6-F6BD9F0A84D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7304CCF-1CCD-405F-78F6-F6BD9F0A84D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7304CCF-1CCD-405F-78F6-F6BD9F0A84D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7304CCF-1CCD-405F-78F6-F6BD9F0A84D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF17F9E0-077A-E07D-8DDB-3BDBBE602962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF17F9E0-077A-E07D-8DDB-3BDBBE602962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF17F9E0-077A-E07D-8DDB-3BDBBE602962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF17F9E0-077A-E07D-8DDB-3BDBBE602962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

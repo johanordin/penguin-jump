@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 25c6dcf6f1eec485ab977150c07ffcc0
+timeCreated: 1464702862
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera01
+    100002: Camera01.Target
+    100004: Cil01
+    100006: Cil02
+    100008: eye-01
+    100010: eye-02
+    100012: eye-03
+    100014: eye-04
+    100016: //RootNode
+    100018: frog-01
+    100020: paupiere-01
+    100022: paupiere-02
+    100024: paupiere-03
+    100026: paupiere-04
+    400000: Camera01
+    400002: Camera01.Target
+    400004: Cil01
+    400006: Cil02
+    400008: eye-01
+    400010: eye-02
+    400012: eye-03
+    400014: eye-04
+    400016: //RootNode
+    400018: frog-01
+    400020: paupiere-01
+    400022: paupiere-02
+    400024: paupiere-03
+    400026: paupiere-04
+    2300000: Cil01
+    2300002: Cil02
+    2300004: eye-01
+    2300006: eye-02
+    2300008: eye-03
+    2300010: eye-04
+    2300012: frog-01
+    2300014: paupiere-01
+    2300016: paupiere-02
+    2300018: paupiere-03
+    2300020: paupiere-04
+    3300000: Cil01
+    3300002: Cil02
+    3300004: eye-01
+    3300006: eye-02
+    3300008: eye-03
+    3300010: eye-04
+    3300012: frog-01
+    3300014: paupiere-01
+    3300016: paupiere-02
+    3300018: paupiere-03
+    3300020: paupiere-04
+    4300000: frog-01
+    4300002: paupiere-03
+    4300004: eye-03
+    4300006: eye-04
+    4300008: paupiere-04
+    4300010: Cil02
+    4300012: paupiere-01
+    4300014: eye-02
+    4300016: eye-01
+    4300018: paupiere-02
+    4300020: Cil01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

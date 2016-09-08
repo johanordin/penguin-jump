@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TuxController.cs">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="19" Column="56" />
+      <File FileName="Assets/Scripts/ObstacleTrackableEventHandler.cs" Line="85" Column="4" />
+      <File FileName="Assets/Scripts/EndTrackableEventHandler.cs" Line="106" Column="13" />
+      <File FileName="Assets/Scripts/TuxController.cs" Line="266" Column="26" />
+      <File FileName="Assets/Scripts/StartTrackableEventHandler.cs" Line="95" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
