@@ -1,11 +1,9 @@
-Authors
-========
+##### Authors
 
-David Duran Rosich (david.duran.rosich@est.fib.upc.edu)
-Johan Erik Olof Nordin (johan.erik.olof.nordin@est.fib.upc.edu)
+David Duran Rosich
+Johan Nordin
 
-Description
-============
+##### Description
 
 Penguin-Jump is an AR-game developed using Unity and Vuforia. The target
 platform is an Android device with a touch input availiable. The idea of the
@@ -18,8 +16,7 @@ on his way across his home and the fish, danger is present in the form of an
 obstacle (trap) which he cannot come close. His only chance to avoid a 
 premature death is to jump over the obstacle. Save Tux from the blades of death!!
 
-Interaction
-============
+##### Interaction
 
 We are using three types of markers to create the game logic. The availiable
 markers are an "igloo marker", a "fish marker" and a "trap marker". Each of
@@ -36,3 +33,4 @@ Finally a "trap marker" can be added, this marker represent an obstacle (trap)
 and if Tux comes too close, he will end up dying (and respawning afterwards).
 However, this can be avoided if the user taps the screen. Tapping the screen
 will trigger a jumping animation that can save Tux from dying if timed correcly.
+
